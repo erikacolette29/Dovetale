@@ -1,0 +1,15 @@
+.reset {
+  background-color: #fff;
+  color: rgba(94, 108, 196);
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  border: 1px solid rgb(220, 224, 228);
+  border-radius: 5px;
+  padding: 0.4rem 0.3rem;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .reset {
+    margin-top: 0.5rem;
+  }
+}

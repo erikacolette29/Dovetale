@@ -1,0 +1,16 @@
+.collection-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column wrap;
+  gap: 1rem;
+
+}
+
+.favorites-title{
+    margin: 2rem 0 1rem 0;
+    color:  rgba(93, 107, 196);
+    border: 1px solid rgb(220, 224, 228);
+    border-radius: 5px;
+    padding: 1rem;
+}
